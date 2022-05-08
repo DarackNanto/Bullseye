@@ -17,6 +17,7 @@
 		737B53902819EBB9006D0898 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737B538F2819EBB9006D0898 /* Shapes.swift */; };
 		737B53922819F8E5006D0898 /* RoundViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737B53912819F8E5006D0898 /* RoundViews.swift */; };
 		737B5394281DC22A006D0898 /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737B5393281DC22A006D0898 /* BackgroundView.swift */; };
+		73A077D52825403600BD95BB /* PointsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A077D42825403600BD95BB /* PointsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		737B538F2819EBB9006D0898 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 		737B53912819F8E5006D0898 /* RoundViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundViews.swift; sourceTree = "<group>"; };
 		737B5393281DC22A006D0898 /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
+		73A077D42825403600BD95BB /* PointsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				736658C92817644500FC2ED5 /* TextViews.swift */,
 				737B538F2819EBB9006D0898 /* Shapes.swift */,
 				737B5393281DC22A006D0898 /* BackgroundView.swift */,
+				73A077D42825403600BD95BB /* PointsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				736658AC2815A5E100FC2ED5 /* ContentView.swift in Sources */,
 				736658CA2817644600FC2ED5 /* TextViews.swift in Sources */,
 				737B53902819EBB9006D0898 /* Shapes.swift in Sources */,
+				73A077D52825403600BD95BB /* PointsView.swift in Sources */,
 				737B5394281DC22A006D0898 /* BackgroundView.swift in Sources */,
 				736658BB2816545700FC2ED5 /* Game.swift in Sources */,
 				736658AA2815A5E100FC2ED5 /* BullseyeApp.swift in Sources */,
